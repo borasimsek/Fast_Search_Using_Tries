@@ -1,0 +1,14 @@
+# ninja log v5
+1	124	7336145812918280	build.ninja	13871d650b74f864
+4	455	7335223090278554	CMakeFiles/CS_201_Project2.dir/Main.cpp.obj	e0a389abec61a13d
+413	511	7336137150845642	CS_201_Project2.exe	198a86366c508302
+4	412	7336137149900129	CMakeFiles/CS_201_Project2.dir/src/Main.cpp.obj	436eaae1831132f
+10	633	7336126878326388	CMakeFiles/CS_201_Project2.dir/src/Tree/TreeNode.cpp.obj	41f8f4440b075ab6
+7	535	7336133920909269	CMakeFiles/CS_201_Project2.dir/src/Trie/TrieNode.cpp.obj	38a28d2e6d43aef7
+3	356	7336136621100457	CMakeFiles/CS_201_Project2.dir/src/Trie/Trie.cpp.obj	56fc0003c7c74dea
+3	689	7336145897337087	CMakeFiles/CS_201_Project2.dir/Main.cpp.obj	e0a389abec61a13d
+690	828	7336145898675133	CS_201_Project2.exe	b323ebda0c32c6a4
+5	426	7336149581284992	CMakeFiles/CS_201_Project2.dir/Main.cpp.obj	e0a389abec61a13d
+427	535	7336149582335446	CS_201_Project2.exe	b323ebda0c32c6a4
+3	453	7336152742140678	CMakeFiles/CS_201_Project2.dir/Main.cpp.obj	e0a389abec61a13d
+453	551	7336152743103183	CS_201_Project2.exe	b323ebda0c32c6a4

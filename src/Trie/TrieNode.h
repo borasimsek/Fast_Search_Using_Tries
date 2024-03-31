@@ -1,0 +1,8 @@
+//
+// Created by bora on 31.03.2024.
+//
+
+#ifndef CS_201_PROJECT2_TRIENODE_H
+#define CS_201_PROJECT2_TRIENODE_H
+
+#endif //CS_201_PROJECT2_TRIENODE_H
