@@ -1,5 +1,7 @@
-4
-mom
-dad
-brother
-me
+6
+search apple
+search dog
+search elephant
+search zebra
+prefix ba
+prefix c

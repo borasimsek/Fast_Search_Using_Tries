@@ -1,18 +1,18 @@
 //
-// Created by bora on 31.03.2024.
+// Created by bora on 6.04.2024.
 //
 
-#define CS_201_PROJECT2_TRIENODE_H
-#include <iostream>
-#include <vector>
-using namespace std;
+#include "TrieNode.h"
 
-
-struct TrieNode {
-    vector<TrieNode*> children;
-    bool isEndOfWord;
-
-    TrieNode() : isEndOfWord(false) {
-        children.resize(26, nullptr); // Alfabetik karakterler için 26 çocuk düğüm oluştur
+TrieNode::TrieNode() {
+    for (int i = 0; i < ALPHABET_SIZE; ++i) {
+        children[i] = nullptr;
     }
-};
+    isEndOfWord = false;
+}
+
+TrieNode::~TrieNode() {
+    for (int i = 0; i < ALPHABET_SIZE; ++i) {
+        delete children[i];
+    }
+}
